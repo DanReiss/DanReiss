@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap icon">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanReiss&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanReiss&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
