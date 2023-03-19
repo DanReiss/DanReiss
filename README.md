@@ -1,4 +1,4 @@
-## Danilo dos Reis Amaral
+# Danilo dos Reis Amaral
 
 ### Desenvolvedor Front-End
 
