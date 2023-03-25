@@ -18,7 +18,7 @@
 
 ##
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/danilo-dos-reis-amaral-8a5405234/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://exercism.org/profiles/DanReiss">
-    <img src="https://img.shields.io/badge/-Exercism-blueviolet">
+    <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white">
   </a>
   <!-- <a href="">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
