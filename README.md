@@ -1,6 +1,5 @@
-# Danilo dos Reis Amaral
-
-### Desenvolvedor Front-End
+# Danilo dos Reis
+## Desenvolvedor Web Front-End
 
 
 <div align="center">
@@ -15,12 +14,10 @@
 #
 
 <div align="center">
-
+  
   [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanReiss&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-
 
 ##
 
@@ -34,9 +31,8 @@
   <a href="https://exercism.org/profiles/DanReiss">
     <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white">
   </a>
-  <!-- <a href="">
+  <a href="https://danilodosreis.vercel.app/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
-  </a> -->
-  
+  </a>
 </div>
 
