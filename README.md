@@ -1,7 +1,10 @@
-<img 
-    src="https://github.com/DanReiss/DanReiss/assets/100306227/5041ea4e-46df-46a1-9b17-29841d51cf67" 
-    alt="Essa imagem é um cabeçalho que contém o seguinte texto: Danilo dos Reis - Desenvolvedor Web - danilodosreis.vercel.app (meu website)"
-/>
+<picture>
+    <source srcset="https://github.com/DanReiss/DanReiss/assets/100306227/83fabf93-3703-4f15-80b2-705401cc019f" media="(max-width: 500px)" />
+    <img 
+        src="https://github.com/DanReiss/DanReiss/assets/100306227/5041ea4e-46df-46a1-9b17-29841d51cf67" 
+        alt="Essa imagem é um cabeçalho que contém o seguinte texto: Danilo dos Reis - Desenvolvedor Web - danilodosreis.vercel.app (meu website)" 
+    />
+</picture>
 
 **<p>Proeficiência em:</p>**
 <div>
