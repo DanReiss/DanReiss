@@ -32,7 +32,7 @@
 
 ### Meus links:
 
-- 💼Linkedin: <a href="https://www.linkedin.com/in/danilo-dos-reis-amaral-8a5405234/">daniloreiss</a> 
+- 💼Linkedin: <a href="https://www.linkedin.com/in/daniloreiss">daniloreiss</a> 
 - 🔢Exercism: <a href="https://exercism.org/profiles/DanReiss">danreiss</a>
 - 👨🏽‍💻Portfólio/Website: <a href="https://danilodosreis.vercel.app/">danilodosreis.vercel.app</a>
 
